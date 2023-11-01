@@ -13,7 +13,7 @@
 
   - Now, we need to create a File and Folder structure hierarchy. In our example, if we need to store some file, then that file should be stored under some directory or you can say folder. For a better understanding, please have a look at the following image which shows the Folder and File Structure of the Root Directory. Let us assume the following is the File directory on our computer.
 
-    ![image](https://github.com/jil1710/readmedemo/assets/125335932/18b040d6-12d3-4a64-a55a-0c6c8eaaa928)
+    ![image](https://github.com/dotnet-simformsolutions/composite-design-pattern/blob/master/images/272899319-18b040d6-12d3-4a64-a55a-0c6c8eaaa928.png)
 
   - Whatever you see in the above diagram, everything is an object. So, here, Root Directory, Folder1, Folder2, SubFolder1, MyBook.txt, MyVideo.mp4, MyMusic.mp3, MyResume.pdf, MySoftware.exe, and MyDocument.doc, all are objects.
 
